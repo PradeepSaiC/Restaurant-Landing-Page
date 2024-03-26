@@ -19,4 +19,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time taken: 5hours
-### Live Link -
+### Live Link - [Link](https://restaurant-landing-page-gules.vercel.app/)
